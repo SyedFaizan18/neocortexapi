@@ -56,7 +56,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "NeoCortexApi.Experiments", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SequenceLearningExperiment", "SequenceLearningExperiment\SequenceLearningExperiment.csproj", "{F0483F52-D2F5-4195-A1F5-C6A903EBB6AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageEncoder", "ImageEncoder\ImageEncoder.csproj", "{5BF48244-DC6D-4A1C-88F7-37C723F34F2A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ImageEncoder", "ImageEncoder\ImageEncoder.csproj", "{5BF48244-DC6D-4A1C-88F7-37C723F34F2A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TM_Persistance_SyedFaizan", "HTM_Persistance_SyedFaizan\TM_Persistance_SyedFaizan\TM_Persistance_SyedFaizan\TM_Persistance_SyedFaizan.csproj", "{9F05E332-080D-4551-AD1E-E9C9D218E9DD}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -112,6 +114,10 @@ Global
 		{5BF48244-DC6D-4A1C-88F7-37C723F34F2A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5BF48244-DC6D-4A1C-88F7-37C723F34F2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5BF48244-DC6D-4A1C-88F7-37C723F34F2A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F05E332-080D-4551-AD1E-E9C9D218E9DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F05E332-080D-4551-AD1E-E9C9D218E9DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F05E332-080D-4551-AD1E-E9C9D218E9DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F05E332-080D-4551-AD1E-E9C9D218E9DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
