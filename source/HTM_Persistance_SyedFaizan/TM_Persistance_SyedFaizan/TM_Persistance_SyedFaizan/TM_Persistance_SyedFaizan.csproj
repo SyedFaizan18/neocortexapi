@@ -7,4 +7,19 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\..\..\HtmActorHost\HtmActorHost.csproj" />
+    <ProjectReference Include="..\..\..\ImageEncoder\ImageEncoder.csproj" />
+    <ProjectReference Include="..\..\..\NeoCortexApi.Experiments\NeoCortexApi.Experiments.csproj" />
+    <ProjectReference Include="..\..\..\NeoCortexApi.Parallel\NeoCortexApi.Parallel.csproj" />
+    <ProjectReference Include="..\..\..\NeoCortexApi\NeoCortexApi.csproj" />
+    <ProjectReference Include="..\..\..\NeoCortexArrayLib\NeoCortexArrayLib.csproj" />
+    <ProjectReference Include="..\..\..\NeoCortexEntities\NeoCortexEntities.csproj" />
+    <ProjectReference Include="..\..\..\NeoCortexUtils\NeoCortexUtils.csproj" />
+    <ProjectReference Include="..\..\..\Samples\NeoCortexApiSample\NeoCortexApiSample.csproj" />
+    <ProjectReference Include="..\..\..\SequenceLearningExperiment\SequenceLearningExperiment.csproj" />
+    <ProjectReference Include="..\..\..\UnitTestsProject\UnitTestsProject.csproj" />
+    <ProjectReference Include="..\..\..\WebSocketNeuroVisualizer\WebSocketNeuroVisualizer.csproj" />
+  </ItemGroup>
+
 </Project>
